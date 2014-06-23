@@ -1,0 +1,24 @@
+{
+  "name": "repeat",
+  "version": "0.0.1",
+  "description": "repeat the functions in array(or object) parallelly or sequentially",
+  "keywords": ["repeat", "async"],
+  "author": "willkan <wanghuikan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willkan/repeat.git",
+    "web": "https://github.com/willkan/repeat"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "istanbul": "*",
+    "mocha": "*",
+    "coffee-script": "*",
+    "expect.js": "*",
+    "should": "*"
+  },
+  "engines": {
+    "node": "0.11.8"
+  }
+}
